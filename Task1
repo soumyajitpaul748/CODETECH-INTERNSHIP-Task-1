@@ -1,0 +1,49 @@
+/**/This code represents a simple To-Do List App built with HTML, CSS, and JavaScript. Here's a concise breakdown suitable for a GitHub repository:
+
+Features:
+HTML Structure:
+Contains a text input for adding tasks and a button to add them to the list.
+Tasks are displayed as a list (<ul> element).
+CSS Styling:
+Styled using an external style.css file for layout and design.
+JavaScript Functionality:
+Interactivity (e.g., adding tasks) is managed via an external script.js file.
+Repository Files:
+index.html: The main structure of the app.
+style.css: Defines the design and appearance of the app.
+script.js: Implements the app's interactivity.
+images/icon.png: Optional icon displayed in the header.
+Setup Instructions:
+Clone the repository.
+Place all files (HTML, CSS, JS, and images) in the same folder.
+Open index.html in a browser to use the app.
+
+CODE-------->>>>>>>>>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>To-Do List App Easy Tutorials</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="container">
+    <div class="todo-app">
+        <h2>TO-DO LIST <img src="images/icon.png"></h2>
+        <div class="row">
+            <input type="text" id="input-box" placeholder="Add your text">
+            <button onclick="addTask()">Add</button>
+        </div>
+        <ul id="list-container">
+            <!--<li class="checked">Task 1</li>
+            <li>Task 2</li>
+            <li>Task 3</li>-->
+        </ul>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
