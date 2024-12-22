@@ -9,6 +9,7 @@ Mentor:Neela Santhosh Kumar
 Overview of the Project: To-Do App Using HTML, CSS, and JavaScript
 
 
+![Screenshot 2024-12-22 210206](https://github.com/user-attachments/assets/db776c24-e92b-4d65-be03-8fc0f713d05b)
 
 
 Objective:
