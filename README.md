@@ -1,9 +1,15 @@
 Name:soumyajit paul
+
 Company:CODETECH IT SOLUTIONS
+
 ID: CTO8DAC
+
 Domain:Frontend Web Development
+
 Duration: December 12th,2024 to January 12th,2025
+
 Mentor:Neela Santhosh Kumar
+
 
 
 Overview of the Project: To-Do App Using HTML, CSS, and JavaScript
